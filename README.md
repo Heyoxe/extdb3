@@ -1,2 +1,2 @@
 ## Arma3 Extension DB3
-https://bitbucket.org/torndeco/extdb3/wiki/Home
+https://github.com/Heyoxe/extdb3/wiki
